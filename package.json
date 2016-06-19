@@ -12,6 +12,8 @@
     "express": "~4.13.4",
     "jade": "~1.11.0",
     "morgan": "~1.7.0",
+    "optimist": "^0.6.1",
+    "recluster": "^0.4.5",
     "serve-favicon": "~2.3.0"
   }
 }
